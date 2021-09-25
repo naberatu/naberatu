@@ -11,7 +11,7 @@ Experience:
 
 ## Contact Me: 
 -> Email:     [email]
-![linkedin](https://user-images.githubusercontent.com/39421939/134761528-b433f380-8724-4e1e-bcb3-be96f0018280.png | width=30)
+![linkedin](https://user-images.githubusercontent.com/39421939/134761528-b433f380-8724-4e1e-bcb3-be96f0018280.png s=30)
 
 [email]:      naberatu@gmail.com
 [linkedin]:   https://www.linkedin.com/in/nader-atout/
