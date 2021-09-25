@@ -4,13 +4,13 @@
 ---
 
 ### Welcome to my GitHub Profile!
-- I'm a 2021 graduate - B.S. In Computer Science & Engineering (UCI)
-- Interested in Software Engineering and Software Development (especially for games!)
-- 
-- Hobbies: Playing and making videogames
+- 🏢 Open to work in Software Engineering & Software Development (especially for games!).
+- 🎓 B.S. In Computer Science & Engineering (UC Irvine 2021).
+- 📜 Honor student, Eta Kappa Nu (IEEE) member, and completed Machine Learning Research.
+- 🌱 Currently learning & practicing: UI/UX, Blender, and Software Optimization.
+- ⚡ Interests: Using, playing, and making nifty software and fun videogames.
 
 ## Languages, Environments, and Tools: 
-
 <!-- Engine -->
 <image align="left" src="https://user-images.githubusercontent.com/39421939/134763873-cfba1fcc-f04f-4bd6-969c-3784fefcea9a.png" height="30">
   
