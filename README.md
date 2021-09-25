@@ -1,10 +1,8 @@
----
-### Greetings! I'm Nader Atout (aka naberatu) 
-#### [<image align="left" src="https://user-images.githubusercontent.com/39421939/134761826-ed479dee-83cb-4de2-bdf4-59e216947b99.png" width="20">][linkedin] naberatu@gmail.com
----
 
-### Welcome to my GitHub Profile!
-- 🏢 Open to work in Software Engineering & Software Development (especially for games!).
+## Greetings and Welcome to my GitHub Profile!
+### [<image align="left" src="https://user-images.githubusercontent.com/39421939/134761826-ed479dee-83cb-4de2-bdf4-59e216947b99.png" width="30">][linkedin] naberatu@gmail.com
+#### About Me:
+- 🏢 Open to work in Software Engineering & Software Development roles (especially for games!).
 - 🎓 B.S. In Computer Science & Engineering (UC Irvine 2021).
 - 📜 Honor student, Eta Kappa Nu (IEEE) member, and completed Machine Learning Research.
 - 🌱 Currently learning & practicing: UI/UX, Blender, and Software Optimization.
