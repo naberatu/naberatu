@@ -5,8 +5,8 @@
 - 🏢 Open to work in Software Engineering & Software Development roles (especially for games!).
 - 🎓 B.S. In Computer Science & Engineering (UC Irvine 2021).
 - 📜 Honor student, Eta Kappa Nu (IEEE) member, and completed Machine Learning Research.
-- 🌱 Currently learning & practicing: UI/UX, Blender, and Software Optimization.
-- ⚡ Interests: Using, playing, and making nifty software and fun videogames.
+- 🌱 Currently learning & practicing: UI/UX, Blender, and Software Optimization skills.
+- ⚡ Interests: Using/playing, and making interesting software and fun videogames.
 
 ## Languages, Environments, and Tools: 
 <!-- Engine -->
