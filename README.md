@@ -1,9 +1,22 @@
-### Hi there 👋
+### Greetings - I'm Nader Atout (naberatu) 
+### Welcome to GitHub Repo!
 
-<!--
-**naberatu/naberatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a 2021 graduate - B.S. In Computer Science & Engineering (UCI)
+- Interested in Software Engineering and Software Development (especially for games!)
+- 
+- Hobbies: Playing and making videogames
 
-Here are some ideas to get you started:
+Experience: 
+
+
+## Contact Me: 
+-> Email:     [email]
+[<img align="left" alt="naberatu | LinkedIn" width="30px" src="https://drive.google.com/file/d/1_3qbpaWPZ-UuXcTMYq7iqR-TOLzsrq6Y/view?usp=sharing" />][linkedin]
+
+
+[email]:      naberatu@gmail.com
+[linkedin]:   https://www.linkedin.com/in/nader-atout/
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
