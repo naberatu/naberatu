@@ -24,8 +24,8 @@
 
 <!-- Integrated Development Environments -->
 <image align="left" src="https://user-images.githubusercontent.com/39421939/134762858-ed09ffe7-9105-4f36-94ba-a91b2013e48c.png" height="30">
-<image align="left" src="https://user-images.githubusercontent.com/39421939/134762859-f196532e-d0e6-459e-82ba-65879ec799d1.png" height="30">
 <image align="left" src="https://user-images.githubusercontent.com/39421939/134762860-27ad19f7-af3d-4e58-b5cf-a0fd285236ee.png" height="30">
+<image align="left" src="https://user-images.githubusercontent.com/39421939/134762859-f196532e-d0e6-459e-82ba-65879ec799d1.png" height="30">
 <image align="left" src="https://user-images.githubusercontent.com/39421939/134762861-d043f17e-42c2-4bf4-8d09-60084f44517b.png" height="30">
 <image align="left" src="https://user-images.githubusercontent.com/39421939/134762862-044550fe-9783-4826-adb8-88f23ad13b84.png" height="30">
 <image align="left" src="https://user-images.githubusercontent.com/39421939/134762863-0db03505-0a2b-48c3-861a-1f6897599e25.png" height="30">
